@@ -17,8 +17,7 @@
 
 ## Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/rollinmendez000/)
-- <a href="https://www.linkedin.com/in/rollinmendez000/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/rollinmendez000/" alt="LinkedIn Profile - https://www.linkedin.com/in/rollinmendez000/" target="_blank">LinkedIn</a>
 - Email at rollinmendez000@gmail.com
 
 <!--
