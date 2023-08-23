@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ### Rollin Alex Mendez - Senior JavaScript Developer | React JS | Node JS | TypeScript | Project Lead
 
 ## Skills
