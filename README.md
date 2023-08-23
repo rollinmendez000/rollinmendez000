@@ -2,6 +2,8 @@
 
 ### Rollin Alex Mendez - Senior JavaScript Developer | React JS | Node JS | TypeScript | Project Lead
 
+I'm a JavaScript Engineer located in Ontario, Canada. I have worked big companies like Meta, Capgemini, Tata Consultancy Services, Cognizant and QBurst.
+
 ## Skills
 
 <code>
