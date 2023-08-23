@@ -1,5 +1,4 @@
-### Rollin Alex Mendez - JavaScript Developer with 11 years of Experience
-
+### Rollin Alex Mendez - Senior JavaScript Developer | React JS | Node JS | TypeScript | Project Lead
 <!--
 **rollinmendez000/rollinmendez000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
