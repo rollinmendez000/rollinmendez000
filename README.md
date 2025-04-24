@@ -1,44 +1,66 @@
 <base target="_blank">
 
-### Rollin Alex Mendez - Senior JavaScript Developer | React JS | Node JS | TypeScript | Project Lead
+<h1>👋 Hi, I'm Rollin Alex Mendez</h1>
+<h3>💻 Full-Stack Developer | JavaScript | TypeScript | React | Node.js | Java | Kotlin | GraphQL | Project Lead</h3>
+<p>🌍 Based in Ontario, Canada</p>
 
-I'm a dedicated JavaScript Engineer with a passion for crafting engaging and user friendly online experience, located in Ontario, Canada. I have worked with big companies like Meta, Capgemini, Tata Consultancy Services, Cognizant and QBurst.
+<hr/>
 
-## Skills
+<p>
+  I'm a seasoned full-stack engineer with a passion for building clean, scalable, and user-centric digital products.
+  Over the years, I’ve contributed to mission-critical projects for leading organizations like
+  <strong>Meta</strong>, <strong>Airbnb</strong>, <strong>Capgemini</strong>, <strong>TCS</strong>,
+  <strong>Cognizant</strong>, and <strong>QBurst</strong>.
+</p>
 
-<code>
-<img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>   
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<p>
+  Whether it’s designing beautiful frontends with React, building robust APIs with Node.js or Java/Kotlin,
+  or architecting systems with GraphQL, I bring deep expertise and a product mindset to every project I touch.
+</p>
 
-## About Me
+<hr/>
 
-- Passionate developer who likes to work on JavaScript related stuff
-- Huge experience on banking and finance domain
-- Creates stellar UI and equally good in Node JS based backend development
+<h2>🚀 Tech Stack</h2>
 
-## Find Me
+<p>
+  <img height="24" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+  <img height="24" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
+  <img height="24" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+  <img height="24" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+  <img height="24" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"/>
+  <img height="24" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
+  <img height="24" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"/>
+</p>
 
-- <a href="https://www.linkedin.com/in/rollinmendez000/" alt="LinkedIn Profile - https://www.linkedin.com/in/rollinmendez000/" target="_blank">LinkedIn</a>
-- Read my blogs at <a href="https://medium.com/@rollinmendez000" alt="Medium Blogs" target="_blank">Medium - rollinmendez000</a>
-- Email at rollinmendez000@gmail.com
+<hr/>
+
+<h2>🧠 About Me</h2>
+<ul>
+  <li>🔥 Passionate about full-stack development and scalable system architecture</li>
+  <li>🎯 Experienced with both product companies and large-scale enterprise applications</li>
+  <li>⚙️ Backend expertise in <strong>Node.js</strong>, <strong>Java (Spring Boot)</strong>, and <strong>Kotlin</strong></li>
+  <li>🖼️ Frontend specialist in <strong>React</strong>, with a focus on performance, UX, and accessibility</li>
+  <li>🔗 API design and integration using <strong>GraphQL</strong> and REST</li>
+  <li>💼 Deep experience in the <strong>banking and finance</strong> sector</li>
+  <li>🧪 Strong advocate for clean code, automated testing, and continuous delivery</li>
+</ul>
+
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+<ul>
+  <li>👔 <a href="https://www.linkedin.com/in/rollinmendez000/">LinkedIn</a></li>
+  <li>✍️ <a href="https://medium.com/@rollinmendez000">Medium Blog</a></li>
+  <li>📧 Email: <a href="mailto:rollinmendez000@gmail.com">rollinmendez000@gmail.com</a></li>
+</ul>
+
+<hr/>
 
 <!--
-**rollinmendez000/rollinmendez000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rollinmendez000/rollinmendez000** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Suggestions:
+- Highlight key projects, open-source contributions, or recent case studies
+- Add badges for GitHub stats or achievements
+- Share side projects or learning goals
 -->
